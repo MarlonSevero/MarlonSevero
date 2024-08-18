@@ -1,3 +1,9 @@
+ <style>
+        .imagem-arredondada {
+            border-radius: 20px;
+}
+</style>
+
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
@@ -13,20 +19,12 @@
 <h3>I'm currently working on the following projects</h3>
 
 <ul>
-  <li><a href="https://github.com/MarlonSevero/Python"><b><img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="" width="20" height="20"/>Learning Python Language</b></a><br/><i>
+  <li><a href="https://github.com/MarlonSevero/Python"><b><img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="" width="20" height="20"/> Learning Python Language</b></a><br/><i>
 Learning the language from basic to advanced, because with Python we can do everything.
 </i></li>
-ws
-<li><a href="https://github.com/MarlonSevero/LinuxAdmin"><b><img src="https://cdn.icon-icons.com/icons2/1159/PNG/256/linux_81610.png" width="20" alt="new" />Linux Admin </b></a><br/><i>Learning basic Linux concepts from how to create a folder and change directories to disk partitioning and encryption</i></li>
-
+<li><a href=""><b><img src="https://developer.apple.com/swift/images/swift-og.png" alt="" width="20" class="imagem-arredondada" height="20" /> Learning Swift Language</b></a><br/>Swift to become an iOS Programmer<i></i></li>
+<li><a href="https://github.com/MarlonSevero/LinuxAdmin"><b><img src="https://cdn.icon-icons.com/icons2/1159/PNG/256/linux_81610.png" width="20" alt="new" /> Linux Admin </b></a><br/><i>Learning basic Linux concepts from how to create a folder and change directories to disk partitioning and encryption</i></li>
 <li><a href="https://github.com/MarlonSevero/DevOps"><b><img src="https://cdn.worldvectorlogo.com/logos/devops-2.svg" alt="" width="20" height="20"/>DevOps Tools</b></a><br/>Virtualization, Vagrant, Ansible, Puppet, Docker, Jenkins, Grafana, Kubernetes, etc. <i></i></li>
-
-<li><a href=""><b><img src="" alt="" width="20" height="20"/>SysAdmin Windows</b></a><br/>texto<i></i></li>
-
-<li><a href=""><b><img src="" alt="" width="20" height="20"/>DevOps Tools</b></a><br/><i></i>texto</li>
-
-
-
 </ul>
 
 <h3>Where to find me</h3>
