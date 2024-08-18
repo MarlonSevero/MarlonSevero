@@ -19,7 +19,7 @@ Learning the language from basic to advanced, because with Python we can do ever
 ws
 <li><a href="https://github.com/MarlonSevero/LinuxAdmin"><b><img src="https://cdn.icon-icons.com/icons2/1159/PNG/256/linux_81610.png" width="20" alt="new" />Linux Admin </b></a><br/><i>Learning basic Linux concepts from how to create a folder and change directories to disk partitioning and encryption</i></li>
 
-<li><a href=""><b><img src="https://cdn.worldvectorlogo.com/logos/devops-2.svg" alt="" width="40" height="40"/>DevOps Tools</b></a><br/>Virtualization, Vagrant, Ansible, Puppet, Docker, <i></i></li>
+<li><a href="https://github.com/MarlonSevero/DevOps"><b><img src="https://cdn.worldvectorlogo.com/logos/devops-2.svg" alt="" width="20" height="20"/>DevOps Tools</b></a><br/>Virtualization, Vagrant, Ansible, Puppet, Docker, Jenkins, Grafana, Kubernetes, etc. <i></i></li>
 
 <li><a href=""><b><img src="" alt="" width="20" height="20"/>SysAdmin Windows</b></a><br/>texto<i></i></li>
 
